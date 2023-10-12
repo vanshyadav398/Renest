@@ -1,3 +1,3 @@
 # Renest
 
-This is to include the blockchain project.
+This is to include the blockchain project, Renest.
