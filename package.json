@@ -5,6 +5,7 @@
     "crypto-js": "^4.1.1",
     "dat-swarm-defaults": "^1.0.3",
     "discovery-swarm": "^5.1.0",
+    "elliptic": "^6.5.4",
     "get-port": "^7.0.0",
     "level": "^8.0.0",
     "moment": "^2.29.4",
